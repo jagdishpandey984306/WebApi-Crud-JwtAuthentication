@@ -1,0 +1,15 @@
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.AssemblyInfo.cs
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.deps.json
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.dll
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.pdb
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.Shared.dll
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.Shared.pdb
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.csproj.CopyComplete
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.dll
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.pdb
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.runtimeconfig.json
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\bin\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.runtimeconfig.dev.json
+C:\WebApi\WebApi.DataAccess.EntityFrameworkCore\obj\Debug\netcoreapp3.1\WebApi.DataAccess.EntityFrameworkCore.genruntimeconfig.cache

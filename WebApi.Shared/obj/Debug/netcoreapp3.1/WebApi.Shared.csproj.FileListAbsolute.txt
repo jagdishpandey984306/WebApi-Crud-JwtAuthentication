@@ -1,0 +1,9 @@
+C:\WebApi\WebApi.Shared\bin\Debug\netcoreapp3.1\WebApi.Shared.deps.json
+C:\WebApi\WebApi.Shared\bin\Debug\netcoreapp3.1\WebApi.Shared.dll
+C:\WebApi\WebApi.Shared\bin\Debug\netcoreapp3.1\WebApi.Shared.pdb
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.AssemblyInfoInputs.cache
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.AssemblyInfo.cs
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.dll
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.pdb
+C:\WebApi\WebApi.Shared\obj\Debug\netcoreapp3.1\WebApi.Shared.csprojAssemblyReference.cache

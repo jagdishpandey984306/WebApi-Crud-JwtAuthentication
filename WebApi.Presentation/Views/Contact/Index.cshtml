@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Contact List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h1>Contact List</h1>
+    <p><a asp-action="Create">Create New</a></p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Permanent Address</th>
+                <th>Temporary Address</th>
+                <th>Father Name</th>
+                <th>GrandFather Name</th>
+                <th>MobileNo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.list != null)
+            {
+                foreach (var item in ViewBag.list)
+                {
+                    <tr>
+                        <td>@item.Id </td>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName </td>
+                        <td>@item.PermanentAddress </td>
+                        <td>@item.TemporaryAddress </td>
+                        <td>@item.FatherName</td>
+                        <td>@item.GrandFatherName</td>
+                        <td>@item.MobileNo </td>
+                        <td>
+                            @Html.ActionLink("Edit", "ContactGetById", new { id = item.Id }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
